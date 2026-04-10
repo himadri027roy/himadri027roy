@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Himadri Roy 👋
 
 **Physics PhD → Quantitative Finance**
 
