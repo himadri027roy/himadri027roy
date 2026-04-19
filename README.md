@@ -30,4 +30,4 @@ Five peer-reviewed publications in *Nuclear Physics B* and *European Physical Jo
 
 **Get in touch**
 
-[LinkedIn](https://linkedin.com/in/himadriroyiitk) · [Email](mailto:your@email.com) · [InspireHEP](https://inspirehep.net/authors/1969274)
+[LinkedIn](https://linkedin.com/in/himadriroyiitk) · [Email](mailto:himadri027roy@gmail.com) · [InspireHEP](https://inspirehep.net/authors/1969274)
