@@ -11,7 +11,7 @@ I am currently looking for roles in quantitative research and model validation, 
 **What I'm building**
 
 
-# [quant-finance-portfolio](https://github.com/himadri027roy/quant-finance-portfolio)
+### [quant-finance-portfolio](https://github.com/himadri027roy/quant-finance-portfolio)
 
 A Python project bridging my physics background and quantitative finance.
 
