@@ -12,7 +12,22 @@ I am currently looking for roles in quantitative research and model validation, 
 
 [quant-finance-portfolio](https://github.com/himadri027roy/quant-finance-portfolio) is a Python project I built to bridge my physics background and finance. It covers Black-Scholes pricing with a full Greeks implementation and Newton-Raphson implied volatility solver, European and Asian Monte Carlo pricing with antithetic variates and convergence analysis, a vectorised backtesting engine testing four trading strategies with realistic transaction costs, VaR and Expected Shortfall via three methods with Kupiec POF model validation, and Markowitz portfolio optimisation with GFC/COVID/rate-shock stress testing. Everything is benchmarked and documented the way I would do it in a research paper.
 
+# quant-finance-portfolio
+
+A Python project bridging my physics background and quantitative finance.
+
+## Features
+
+- **Options Pricing** — Black-Scholes implementation with full Greeks (Delta, Gamma, Vega, Theta, Rho) and a Newton-Raphson solver for implied volatility
+- **Monte Carlo Simulation** — European and Asian option pricing with antithetic variates for variance reduction, plus convergence analysis
+- **Backtesting Engine** — Vectorised framework testing four trading strategies with realistic transaction cost modelling
+- **Risk Management** — VaR and Expected Shortfall computed via three methods (historical, parametric, Monte Carlo), validated using the Kupiec POF test
+- **Portfolio Optimisation** — Markowitz mean-variance framework with stress testing across GFC, COVID, and rate-shock scenarios
+
+Every component is benchmarked and documented to research-paper standards.
+
 ---
+
 
 **Research background**
 
