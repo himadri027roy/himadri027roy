@@ -10,7 +10,6 @@ I am currently looking for roles in quantitative research and model validation, 
 
 **What I'm building**
 
-[quant-finance-portfolio](https://github.com/himadri027roy/quant-finance-portfolio) is a Python project I built to bridge my physics background and finance. It covers Black-Scholes pricing with a full Greeks implementation and Newton-Raphson implied volatility solver, European and Asian Monte Carlo pricing with antithetic variates and convergence analysis, a vectorised backtesting engine testing four trading strategies with realistic transaction costs, VaR and Expected Shortfall via three methods with Kupiec POF model validation, and Markowitz portfolio optimisation with GFC/COVID/rate-shock stress testing. Everything is benchmarked and documented the way I would do it in a research paper.
 
 # [quant-finance-portfolio](https://github.com/himadri027roy/quant-finance-portfolio)
 
