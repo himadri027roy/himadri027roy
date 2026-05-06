@@ -32,6 +32,15 @@ $$\frac{\partial V}{\partial t} + \tfrac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\
 
 A Python project bridging my physics background and quantitative finance. Every component is benchmarked and documented to research-paper standards.
 
+<p align="center">
+  <img src="charts/greeks.svg" alt="Option Greeks for ATM call" width="48%"/>
+  <img src="charts/mc-convergence.svg" alt="Monte Carlo convergence O(1/sqrt(N))" width="48%"/>
+</p>
+<p align="center">
+  <img src="charts/var.svg" alt="VaR 99% historical method" width="48%"/>
+  <img src="charts/equity.svg" alt="Strategy equity curve 2018-2024" width="48%"/>
+</p>
+
 - **Options Pricing** — Black–Scholes with full Greeks (Δ, Γ, ν, Θ, ρ); Newton–Raphson implied-volatility solver
 - **Monte Carlo** — European & Asian options with antithetic variates for variance reduction; convergence analysis verifying $\mathcal{O}(1/\sqrt{N})$
 - **Backtesting** — vectorised engine, four trading strategies, realistic transaction-cost modelling
