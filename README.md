@@ -2,9 +2,21 @@
 
 **PhD in Physics (IIT Kanpur, 2023) · CFA Level I · Quantitative Researcher**
 
-I spent seven years building mathematical models in high-energy physics — writing Monte Carlo simulators, solving stochastic differential equations, and validating results against analytical benchmarks. At some point I realised these are exactly the tools quantitative finance runs on. So I started making the transition deliberately: passed CFA Level I, built a hands-on quant finance portfolio from scratch, and now work as an AI Training Specialist at Turing where I validate model outputs for mathematical correctness and robustness — the same independent validation workflow used in financial model risk management under SR 11-7.
+# Quantitative Researcher & Model Validator
+### Physics PhD → Finance
 
-I am currently looking for roles in quantitative research and model validation, and open to relocating anywhere in the world.
+I spent seven years in high-energy physics building the exact toolkit quantitative finance runs on: Monte Carlo simulators, stochastic differential equation solvers, and rigorous validation against analytical benchmarks.
+
+I'm now transitioning into quant finance with a deliberate, evidence-based approach:
+
+- **CFA Level I** — passed
+- **Quant finance portfolio** — built from scratch, covering derivatives pricing, risk management, and portfolio optimisation ([see repo](https://github.com/himadri027roy/quant-finance-portfolio))
+- **AI Training Specialist at Turing** — validating model outputs for mathematical correctness and robustness, mirroring the independent validation workflow defined under **SR 11-7** for financial model risk management
+
+---
+
+📍 **Currently seeking:** roles in **quantitative research** and **model validation**
+🌍 **Location:** open to relocating globally
 
 ---
 
